@@ -1,2 +1,2 @@
-# my comments
-# some additional comments
+# my comments (ok)
+# some useful additional comments
