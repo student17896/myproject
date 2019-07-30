@@ -1,5 +1,6 @@
-Marketing team
- Collins
+Finance team
+ Colins
  Linda
+ MArk
  Patricia
  Morgan
