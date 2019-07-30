@@ -1,6 +1,5 @@
-Finance team
- Charles
- Lisa
- John
- Stacy
- Alexander
+Marketing team
+ Collins
+ Linda
+ Patricia
+ Morgan
